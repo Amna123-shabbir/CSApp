@@ -1,0 +1,7 @@
+C:\Users\AyeshaAmna\source\repos\CoffeeShopServer\CoffeeShopServer\bin\Debug\CoffeeShopServer.exe.config
+C:\Users\AyeshaAmna\source\repos\CoffeeShopServer\CoffeeShopServer\bin\Debug\CoffeeShopServer.exe
+C:\Users\AyeshaAmna\source\repos\CoffeeShopServer\CoffeeShopServer\bin\Debug\CoffeeShopServer.pdb
+C:\Users\AyeshaAmna\source\repos\CoffeeShopServer\CoffeeShopServer\obj\Debug\CoffeeShopServer.csproj.AssemblyReference.cache
+C:\Users\AyeshaAmna\source\repos\CoffeeShopServer\CoffeeShopServer\obj\Debug\CoffeeShopServer.csproj.CoreCompileInputs.cache
+C:\Users\AyeshaAmna\source\repos\CoffeeShopServer\CoffeeShopServer\obj\Debug\CoffeeShopServer.exe
+C:\Users\AyeshaAmna\source\repos\CoffeeShopServer\CoffeeShopServer\obj\Debug\CoffeeShopServer.pdb
